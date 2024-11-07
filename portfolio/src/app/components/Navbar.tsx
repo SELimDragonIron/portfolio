@@ -73,10 +73,10 @@ const Navbar = ({}: NavbarProps) => {
             {/* LOGO */}
             <Link
                href="/"
-               className="text-sm bg-black rounded-md p-1 font-semibold flex items-center justify-center"
+               className="text-sm rounded-md p-1 font-semibold flex items-center justify-center"
             >
-               <span className="text-white mr-1">Lim</span>
-               <span className="text-white">D</span>
+               <span className="text-white mr-1 text-xl">Lim</span>
+               <span className="text-white text-xl">D</span>
             </Link>
          </div>
          {/* LINKS */}
